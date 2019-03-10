@@ -1,4 +1,7 @@
+package json;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
+import json.Data;
 
 public class JsonToJavaObject {
   public static void main(String[] args) throws Exception{
