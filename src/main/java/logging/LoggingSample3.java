@@ -49,7 +49,7 @@ public class LoggingSample3 {
   public static void main(String[] args) {
     final Logger logger = Logger.getLogger("SampleLogging");
 
-    logger.finest("隣の客はよく柿食う客だ。");
+    logger.finest("にゃんち注意報");
     logger.finer("東京都特許許可局。");
     logger.fine("かえるぴょこぴょこ。");
     logger.config("庭には二羽鶏が。");

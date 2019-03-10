@@ -14,3 +14,35 @@ Mar 11, 2019 12:34:41 AM logging.LoggingSample3 main
 WARNING: あかまきがみ。
 Mar 11, 2019 12:34:41 AM logging.LoggingSample3 main
 SEVERE: すもももももももものうち。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 <clinit>
+CONFIG: ログ設定: LogManagerを設定しました。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+FINEST: 隣の客はよく柿食う客だ。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+FINER: 東京都特許許可局。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+FINE: かえるぴょこぴょこ。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+CONFIG: 庭には二羽鶏が。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+INFO: 生麦生米生卵。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+WARNING: あかまきがみ。
+Mar 11, 2019 12:40:18 AM logging.LoggingSample3 main
+SEVERE: すもももももももものうち。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 <clinit>
+CONFIG: ログ設定: LogManagerを設定しました。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+FINEST: にゃんち注意報
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+FINER: 東京都特許許可局。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+FINE: かえるぴょこぴょこ。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+CONFIG: 庭には二羽鶏が。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+INFO: 生麦生米生卵。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+WARNING: あかまきがみ。
+Mar 11, 2019 12:40:41 AM logging.LoggingSample3 main
+SEVERE: すもももももももものうち。
