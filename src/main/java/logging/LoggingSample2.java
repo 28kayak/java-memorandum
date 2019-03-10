@@ -14,8 +14,8 @@ public class LoggingSample2 {
    */
   protected static final String LOGGING_PROPERTIES_DATA
           = "handlers=java.util.logging.ConsoleHandler\n"
-          + ".level=INFO\n"
-          + "java.util.logging.ConsoleHandler.level=INFO\n"
+          + ".level=FINEST\n"
+          + "java.util.logging.ConsoleHandler.level=FINEST\n"
           + "java.util.logging.ConsoleHandler.formatter"
           + "=java.util.logging.SimpleFormatter";
   /**
@@ -51,13 +51,6 @@ public class LoggingSample2 {
     }
   }
 
-
-
-
-
-
-
-
   public static void main(String[] args) {
     final Logger logger = Logger.getLogger("SampleLogging");
 
@@ -72,3 +65,29 @@ public class LoggingSample2 {
 
   }//main
 }
+/*
+*-- Result --
+* Mar 11, 2019 12:03:13 AM logging.LoggingSample2 <clinit>
+CONFIG: ログ設定: LogManagerを設定しました。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+FINEST: 隣の客はよく柿食う客だ。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+FINER: 東京都特許許可局。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+FINE: かえるぴょこぴょこ。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+CONFIG: 庭には二羽鶏が。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+INFO: 生麦生米生卵。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+WARNING: あかまきがみ。
+Mar 11, 2019 12:03:13 AM logging.LoggingSample2 main
+SEVERE: すもももももももものうち。
+
+*
+*
+*
+*
+*
+*
+* */
